@@ -1,8 +1,8 @@
 
 const testData = [
-    { name: "Dan Abramov", avatar_url: "https://avatars0.githubusercontent.com/u/810438?v=4", company: "@facebook" },
-    { name: "Sophie Alpert", avatar_url: "https://avatars2.githubusercontent.com/u/6820?v=4", company: "Humu" },
-    { name: "Sebastian Markbåge", avatar_url: "https://avatars2.githubusercontent.com/u/63648?v=4", company: "Facebook" },
+    { name: "Jesse Hall", avatar_url: "https://avatars.githubusercontent.com/u/52665907?v=4", company: "@codeSTACKr" },
+    { name: "Leo", avatar_url: "https://avatars.githubusercontent.com/u/1320448?v=4", company: "mopig" },
+    { name: "Mahbub Zaman", avatar_url: "https://avatars.githubusercontent.com/u/1612112?v=4", company: "lifeparticle" },
 ];
 
-export default testData;
+export default testData;    
